@@ -23,6 +23,6 @@
 
   /*
 
-  
+  - First convert the column number to a string.
 
   */
