@@ -8,5 +8,6 @@
     var res = '';
     while (num > 0) {
         tmp = num % 26;
+        if (tmp === 0) tmp = 26;
       }
   };
