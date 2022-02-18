@@ -10,5 +10,6 @@
         tmp = num % 26;
         if (tmp === 0) tmp = 26;
         res = getChar(tmp) + res;
+        num = (num - tmp) / 26;
       }
   };
