@@ -24,5 +24,7 @@
   /*
 
   - First convert the column number to a string.
+  - Then iterate through the string from the end to the beginning.
+  
 
   */
