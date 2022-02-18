@@ -14,3 +14,7 @@
       }
       return res;
   };
+
+  var getChar = function (num) {
+    
+  };
