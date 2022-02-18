@@ -5,4 +5,5 @@
  var convertToTitle = function(columnNumber) {
     var num = columnNumber;
     var tmp = 0;
+    var res = '';
   };
