@@ -12,4 +12,5 @@
         res = getChar(tmp) + res;
         num = (num - tmp) / 26;
       }
+      return res;
   };
