@@ -16,5 +16,5 @@
   };
 
   var getChar = function (num) {
-    
+    var start = 'A'.charCodeAt(0);
   };
