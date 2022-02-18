@@ -25,6 +25,7 @@
 
   - First convert the column number to a string.
   - Then iterate through the string from the end to the beginning.
+  - For each character, we convert it to its corresponding number and add it to the result.
   
 
   */
